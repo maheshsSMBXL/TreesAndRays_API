@@ -62,6 +62,7 @@ namespace TreesAndRays.Controllers
         [HttpGet("GetDeviceDataControl")]
         public async Task<IActionResult> GetDeviceDataControl(string Macid)
         {
+            //testing
             var DeviceDataControlStatus = _context.DeviceDataControl.Where(a => a.MacId == Macid).Select(a => a.Status).SingleOrDefault(); ;
             return Ok(DeviceDataControlStatus);
         }

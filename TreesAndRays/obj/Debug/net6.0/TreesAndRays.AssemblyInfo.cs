@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreesAndRays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+827b0e4ce1df867d4c4a9fff3a590fc20c2d9555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cbb4dd6df78d786c72e952f40738120363f032f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreesAndRays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreesAndRays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
